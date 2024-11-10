@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=balajisiv03&label=Profile%20views&color=0e75b6&style=flat" alt="balajisiv03" /> </p>
 
-- 🔭 I’m currently working on **PERN stack**
+- 🔭 I’m currently working on **Full Stack and Data analytics Projects**
 
 - 🌱 I’m currently learning **React Native,Nextjs**
 
